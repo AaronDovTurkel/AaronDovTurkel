@@ -1,4 +1,8 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AaronDovTurkel&show_icons=true&theme=dracula)
+[![](https://img.shields.io/badge/Donate-181717?link=https://www.patreon.com/join/aarondovturkel/checkout?ru=undefined&style=for-the-badge&logo=patreon&color=blue)](https://www.patreon.com/join/aarondovturkel/checkout?ru=undefined)
+[![](https://img.shields.io/badge/Linked%20In-181717?style=for-the-badge&logo=linkedin&color=yellow)](https://www.linkedin.com/in/aaron-turkel/)
+[![](https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail)](mailto:aarondovturkel@gmail.com)
+
+[![](https://github-readme-stats.vercel.app/api?username=AaronDovTurkel&show_icons=true&theme=dracula)](https://github.com/AaronDovTurkel/AaronDovTurkel)
 <!--
 **AaronDovTurkel/AaronDovTurkel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
