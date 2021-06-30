@@ -1,6 +1,5 @@
 [![](https://github-readme-stats.vercel.app/api?username=AaronDovTurkel&show_icons=true&theme=dracula)](https://github.com/AaronDovTurkel/AaronDovTurkel)
 
-<a href="https://www.buymeacoffee.com/aarondovturkel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 <!--
 **AaronDovTurkel/AaronDovTurkel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on Fabuwood Enterprise Apps, HomeCoin (crypto for real estate), and many more...
+🌱 I’m currently learning Rust and Svelte
