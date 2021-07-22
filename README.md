@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on [Fabuwood](https://www.fabuwood.com) Enterprise Apps, [HomeCoin (crypto for real estate)](https://www.homecoin.info), and many more...
 
-🌱 I’m currently learning Rust and Svelte
+🌱 I’m currently learning Rust and Svelte.
+
+💬 Ask me about my [keyboard](https://github.com/ItsWaffIe/waffle_microdox)!
