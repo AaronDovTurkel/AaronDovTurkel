@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on [Fabuwood](https://www.fabuwood.com) Enterprise Apps.
 
-🌱 I'm also learning Rust, Solidity, and Svelte on my free time.
+🌱 I'm also learning Rust, Solidity, and Svelte in my free time.
 
 💬 If you feel like it, ask me about my [keyboard](https://github.com/ItsWaffIe/waffle_microdox)!
