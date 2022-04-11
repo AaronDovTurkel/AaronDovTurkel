@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on [Fabuwood](https://www.fabuwood.com) Enterprise Apps.
-
-🌱 I'm also learning Rust, Solidity, and Svelte in my free time.
+🔭 I’m currently working on [Global Rewards USA](https://www.globalrewardsusa.com) Enterprise Apps.
 
 💬 If you feel like it, ask me about my [keyboard](https://github.com/ItsWaffIe/waffle_microdox)!
