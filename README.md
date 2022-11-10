@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⚡ I’m currently working at [Amazon Ads]([https://www.globalrewardsusa.com](https://advertising.amazon.com/)).
+⚡ I’m currently working at [Amazon Ads](https://advertising.amazon.com/).
 
 💬 If you feel like it, ask me about my [keyboard](https://github.com/ItsWaffIe/waffle_microdox)!
